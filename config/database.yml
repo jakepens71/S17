@@ -12,4 +12,3 @@ production:
   username: rkuqzzowoocfqp
   password: Jlx4Lb_Fb7kqxemY_K5ilrjDhd
   host: ec2-54-197-249-212.compute-1.amazonaws.com
-  url: postgres://rkuqzzowoocfqp:Jlx4Lb_Fb7kqxemY_K5ilrjDhd@ec2-54-197-249-212.compute-1.amazonaws.com:5432/dfg5p5jvpi06ip
